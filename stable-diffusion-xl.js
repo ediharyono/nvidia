@@ -1,3 +1,4 @@
+//https://build.nvidia.com/stabilityai/stable-diffusion-xl?snippet_tab=Node
 import fetch from "node-fetch";
 
 const invokeUrl = "https://ai.api.nvidia.com/v1/genai/stabilityai/stable-diffusion-xl"
